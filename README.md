@@ -1,4 +1,4 @@
-# QuickEmoji Plugin for Aliucord
+# QuickEmoji Plugin for Aliucord Version 1.0.0
 
 This Aliucord plugin designed to help you quickly send or react with your favorite custom emoji in Discord.  
 It adds a convenient context menu option when you long-press a message for quick reactions, and a handy button near the chat input for sending the emoji directly in chat.  

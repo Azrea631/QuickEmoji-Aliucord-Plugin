@@ -1,4 +1,4 @@
-# FastReact Plugin for Aliucord Version 1.0.0
+# FastReact Plugin Version 1.0.0 for Aliucord
 
 This Aliucord plugin is designed to help you quickly send or react with your favorite custom emoji in Discord.  
 It adds a convenient context menu option when you long-press a message for quick reactions, and a handy button near the chat input for sending the emoji directly in chat.  
